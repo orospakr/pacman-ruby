@@ -1,0 +1,12 @@
+Gem::Specification.new do |s|
+  s.name        = 'alpm'
+  s.version     = '0.0.0'
+  s.date        = '2013-02-03'
+  s.summary     = "libalpm binding"
+  s.description = "ArchLinux pacman API"
+  s.authors     = ["Andrew Clunis"]
+  s.email       = 'andrew@orospakr.ca'
+  s.files       = ["lib/alpm.rb"]
+  s.homepage    =
+    'http://www.orospakr.ca/'
+end
